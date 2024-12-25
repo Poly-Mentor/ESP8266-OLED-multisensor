@@ -1,0 +1,2 @@
+SSID = ""
+WiFi_Password = ""
